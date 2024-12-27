@@ -7,7 +7,7 @@ flowdb/
 .exrc
 .DS_Store
 
-# file types
+# file 7868
 dev-wallet/db/*.db
 todo.md
 **/debug.log
